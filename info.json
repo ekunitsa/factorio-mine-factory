@@ -1,0 +1,9 @@
+{
+  "name": "mine-factory",
+  "version": "1.0.0",
+  "title": "Mine factory",
+  "author": "ekunitsa",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "space-age"],
+  "description": "This mod adds different types of mines and a factory for the production of mines"
+}
